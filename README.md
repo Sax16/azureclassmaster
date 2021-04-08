@@ -1,11 +1,11 @@
-# Hyperblog 😎😎:
-Empezando un blog con el curso de [Git y Github](https://platzi.com/clases/git-github/ "Git y Github") de Platzi
+# Mi blog😎😎:
+Hola, bienvenidos a mi blog. Por ahora solo lo realizo para implementar pequeños conocimientos de la web adquiridos, no será el mas cool pero con mis pequeños conocimientos realizaré algo decente.
 
->El curso de Gut y GitHub de Platzi de verda fue un curso muy agradable, ahora puedo ver cómo trabajan remotamente en códigos distintos proyectos.
+>Estoy empezando este blog el 08/04/2021 1:00pm activamente. 
 >- Jhorsax
 
-# En este curso ví muchas cosas:
-* Desde comandos básicos
-* Hasta lograr un flujo de trabajo remoto
+# Me gusta la tecnología
+* Estoy en un proceso de aprendizaje, y me atrevo a llamarlo intensivo
+* Esperemos que pueda ver resultados en los próximos años
 
-Este es solo un proyecto de principiante, parece **¿un chiste cierto?.** Tambien puedes tomar el curso de **[Git y Github](http://platzi.com/clases/git-github/ "Git y Github").**
+Blog preparado para mi presentación...
